@@ -20,10 +20,8 @@ code {
 .light {
   background-color: gray;
   color: black;
-  height: 100vh;
 }
 .dark {
   background-color: black;
   color: white;
-  height: 100vh;
 }
